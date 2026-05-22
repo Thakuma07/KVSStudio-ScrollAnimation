@@ -1,6 +1,14 @@
+/**
+ * KVS Services - Scroll-Powered Matrix Image Reveal
+ * 
+ * Inspired by: KVS Services (https://www.kvs.services/)
+ * A custom implementation featuring a scroll-driven image stack transition 
+ * with a dynamic procedural matrix-character dissolve effect.
+ */
+
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import Lenis from "lenis";
+import { default as Lenis } from "lenis";
 gsap.registerPlugin(ScrollTrigger);
 
 const lenis = new Lenis();
