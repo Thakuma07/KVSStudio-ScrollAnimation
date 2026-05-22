@@ -86,3 +86,10 @@ KVS Services/
 ├── vite.config.js      # Vite specific dev configurations
 └── .gitignore          # Git exclusion rules
 ```
+
+---
+
+## 🎨 Credits & Inspiration
+
+This project's scroll-driven image stack and procedurally-scattered matrix character transitions are directly inspired by the original design on [KVS Services](https://www.kvs.services/).
+
