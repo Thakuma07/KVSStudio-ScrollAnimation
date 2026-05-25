@@ -1,6 +1,9 @@
+
 # KVS Services: Scroll-Powered Matrix Image Reveal
 
 An interactive, premium front-end experience featuring a scroll-driven image stack transition combined with a dynamic matrix-style character dissolve effect. Built using **Vite**, **GSAP**, and **Lenis**.
+
+<img width="1920" height="1080" alt="Screenshot 2026-05-25 151918" src="https://github.com/user-attachments/assets/8226ec78-f5eb-4ce8-aa2a-158f2df2ccdd" />
 
 ## 🎨 Visual Experience & Architecture
 
